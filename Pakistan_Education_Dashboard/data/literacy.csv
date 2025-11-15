@@ -1,0 +1,120 @@
+year,province,male_literacy,female_literacy,overall_literacy
+2008,Punjab,56.4,48.2,52.3
+2008,Sindh,61.2,51.8,56.5
+2008,Khyber Pakhtunkhwa,75.8,70.3,73.1
+2008,Balochistan,75.7,67.5,71.6
+2008,Gilgit-Baltistan,73.0,64.1,68.5
+2008,AJK,58.8,49.4,54.1
+2008,Islamabad,71.7,67.8,69.7
+2009,Punjab,65.8,55.1,60.4
+2009,Sindh,70.3,66.2,68.2
+2009,Khyber Pakhtunkhwa,63.8,60.0,61.9
+2009,Balochistan,62.7,51.5,57.1
+2009,Gilgit-Baltistan,70.5,65.9,68.2
+2009,AJK,65.7,63.0,64.3
+2009,Islamabad,73.8,62.2,68.0
+2010,Punjab,57.7,50.8,54.3
+2010,Sindh,69.0,59.7,64.3
+2010,Khyber Pakhtunkhwa,66.3,60.4,63.3
+2010,Balochistan,63.6,60.4,62.0
+2010,Gilgit-Baltistan,70.3,63.0,66.6
+2010,AJK,63.6,57.0,60.3
+2010,Islamabad,76.3,72.4,74.3
+2011,Punjab,55.6,53.3,54.4
+2011,Sindh,69.4,58.8,64.1
+2011,Khyber Pakhtunkhwa,68.8,62.8,65.8
+2011,Balochistan,71.6,62.8,67.2
+2011,Gilgit-Baltistan,61.6,52.2,56.9
+2011,AJK,79.3,69.5,74.4
+2011,Islamabad,69.3,60.4,64.9
+2012,Punjab,76.1,73.1,74.6
+2012,Sindh,70.9,62.1,66.5
+2012,Khyber Pakhtunkhwa,66.5,58.7,62.6
+2012,Balochistan,70.2,62.6,66.4
+2012,Gilgit-Baltistan,62.5,56.0,59.3
+2012,AJK,59.3,57.2,58.2
+2012,Islamabad,65.4,63.0,64.2
+2013,Punjab,75.8,65.8,70.8
+2013,Sindh,74.7,68.4,71.6
+2013,Khyber Pakhtunkhwa,72.8,64.0,68.4
+2013,Balochistan,66.4,60.4,63.4
+2013,Gilgit-Baltistan,70.0,65.2,67.6
+2013,AJK,74.3,65.6,69.9
+2013,Islamabad,80.0,73.2,76.6
+2014,Punjab,62.6,59.0,60.8
+2014,Sindh,68.9,63.3,66.1
+2014,Khyber Pakhtunkhwa,72.0,69.2,70.6
+2014,Balochistan,76.7,68.2,72.5
+2014,Gilgit-Baltistan,71.7,65.7,68.7
+2014,AJK,65.1,60.6,62.8
+2014,Islamabad,54.7,46.1,50.4
+2015,Punjab,69.4,60.7,65.1
+2015,Sindh,62.9,59.6,61.2
+2015,Khyber Pakhtunkhwa,66.1,58.3,62.2
+2015,Balochistan,72.8,70.4,71.6
+2015,Gilgit-Baltistan,61.5,51.7,56.6
+2015,AJK,68.7,57.9,63.3
+2015,Islamabad,69.0,65.2,67.1
+2016,Punjab,72.5,65.4,69.0
+2016,Sindh,73.7,68.7,71.2
+2016,Khyber Pakhtunkhwa,72.0,69.7,70.8
+2016,Balochistan,72.7,70.5,71.6
+2016,Gilgit-Baltistan,69.6,60.9,65.3
+2016,AJK,52.9,50.6,51.8
+2016,Islamabad,65.4,55.0,60.2
+2017,Punjab,72.1,62.5,67.3
+2017,Sindh,68.9,65.6,67.2
+2017,Khyber Pakhtunkhwa,70.4,61.8,66.1
+2017,Balochistan,68.9,59.2,64.0
+2017,Gilgit-Baltistan,68.4,56.6,62.5
+2017,AJK,59.9,48.8,54.3
+2017,Islamabad,60.8,50.7,55.7
+2018,Punjab,68.6,61.1,64.8
+2018,Sindh,72.8,68.1,70.4
+2018,Khyber Pakhtunkhwa,64.6,55.5,60.1
+2018,Balochistan,76.4,65.4,70.9
+2018,Gilgit-Baltistan,74.6,70.9,72.8
+2018,AJK,70.1,65.6,67.9
+2018,Islamabad,81.3,77.2,79.2
+2019,Punjab,68.5,62.1,65.3
+2019,Sindh,64.0,53.6,58.8
+2019,Khyber Pakhtunkhwa,68.3,65.9,67.1
+2019,Balochistan,68.8,65.7,67.2
+2019,Gilgit-Baltistan,72.0,66.9,69.5
+2019,AJK,72.9,69.6,71.3
+2019,Islamabad,67.9,61.0,64.5
+2020,Punjab,68.9,58.0,63.5
+2020,Sindh,66.0,57.6,61.8
+2020,Khyber Pakhtunkhwa,76.0,65.5,70.8
+2020,Balochistan,66.6,64.2,65.4
+2020,Gilgit-Baltistan,71.8,66.4,69.1
+2020,AJK,59.9,56.6,58.2
+2020,Islamabad,75.1,69.9,72.5
+2021,Punjab,66.5,58.6,62.6
+2021,Sindh,65.8,60.9,63.4
+2021,Khyber Pakhtunkhwa,71.7,65.8,68.8
+2021,Balochistan,68.1,61.7,64.9
+2021,Gilgit-Baltistan,59.5,55.4,57.4
+2021,AJK,67.9,58.5,63.2
+2021,Islamabad,75.1,68.8,72.0
+2022,Punjab,67.5,65.4,66.4
+2022,Sindh,65.2,57.2,61.2
+2022,Khyber Pakhtunkhwa,63.9,53.7,58.8
+2022,Balochistan,68.5,57.7,63.1
+2022,Gilgit-Baltistan,70.6,62.3,66.5
+2022,AJK,72.5,67.4,69.9
+2022,Islamabad,72.0,70.0,71.0
+2023,Punjab,64.8,53.3,59.0
+2023,Sindh,62.5,55.7,59.1
+2023,Khyber Pakhtunkhwa,86.8,75.5,81.1
+2023,Balochistan,75.7,72.9,74.3
+2023,Gilgit-Baltistan,69.5,62.2,65.8
+2023,AJK,66.3,55.9,61.1
+2023,Islamabad,69.6,61.7,65.6
+2024,Punjab,72.0,68.8,70.4
+2024,Sindh,70.9,67.0,69.0
+2024,Khyber Pakhtunkhwa,72.5,67.3,69.9
+2024,Balochistan,65.6,57.9,61.7
+2024,Gilgit-Baltistan,75.9,73.1,74.5
+2024,AJK,82.0,73.6,77.8
+2024,Islamabad,75.9,66.7,71.3

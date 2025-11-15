@@ -1,0 +1,321 @@
+year,district,province,avg_score,pass_rate,num_students
+2019,District 1,Sindh,77.4,0.79,10324
+2019,District 2,Sindh,44.1,0.82,18935
+2019,District 3,Balochistan,60.7,0.73,16699
+2019,District 4,Khyber Pakhtunkhwa,55.4,0.78,12760
+2019,District 5,Balochistan,65.7,0.95,3526
+2019,District 6,Balochistan,47.0,0.6,12589
+2019,District 7,Balochistan,74.5,0.63,19384
+2019,District 8,Sindh,64.3,0.76,15619
+2019,District 9,Khyber Pakhtunkhwa,51.9,0.44,685
+2019,District 10,Sindh,60.1,0.6,19225
+2019,District 11,Punjab,34.2,0.48,16745
+2019,District 12,Punjab,72.3,0.88,7312
+2019,District 13,Khyber Pakhtunkhwa,80.1,0.86,19465
+2019,District 14,Khyber Pakhtunkhwa,56.2,0.67,19125
+2019,District 15,Punjab,82.5,0.71,16759
+2019,District 16,Sindh,57.5,0.71,8909
+2019,District 17,Sindh,75.2,0.71,7842
+2019,District 18,Khyber Pakhtunkhwa,86.9,0.85,6115
+2019,District 19,Balochistan,55.4,0.75,6835
+2019,District 20,Khyber Pakhtunkhwa,85.7,0.86,1904
+2019,District 21,Balochistan,54.4,0.75,1564
+2019,District 22,Balochistan,47.0,0.51,11383
+2019,District 23,Sindh,82.4,0.83,18233
+2019,District 24,Khyber Pakhtunkhwa,50.1,0.66,16507
+2019,District 25,Balochistan,61.3,0.64,16401
+2019,District 26,Sindh,46.8,0.43,14933
+2019,District 27,Sindh,58.8,0.79,1464
+2019,District 28,Balochistan,47.0,0.64,2290
+2019,District 29,Balochistan,53.9,0.74,8464
+2019,District 30,Sindh,80.2,0.78,7252
+2019,District 31,Sindh,41.2,0.7,13341
+2019,District 32,Punjab,55.7,0.64,1441
+2019,District 33,Punjab,69.5,0.89,576
+2019,District 34,Khyber Pakhtunkhwa,54.8,0.7,1865
+2019,District 35,Khyber Pakhtunkhwa,51.3,0.84,17927
+2019,District 36,Sindh,71.8,0.67,1208
+2019,District 37,Sindh,51.9,0.67,16321
+2019,District 38,Khyber Pakhtunkhwa,51.9,0.72,7205
+2019,District 39,Khyber Pakhtunkhwa,55.5,0.87,1199
+2019,District 40,Punjab,57.4,0.87,4340
+2019,District 41,Khyber Pakhtunkhwa,68.9,0.7,6367
+2019,District 42,Punjab,62.7,0.66,11190
+2019,District 43,Khyber Pakhtunkhwa,49.6,0.6,6517
+2019,District 44,Punjab,58.8,0.72,16673
+2019,District 45,Khyber Pakhtunkhwa,76.5,0.88,3017
+2019,District 46,Punjab,55.9,0.33,13335
+2019,District 47,Balochistan,54.1,0.77,3494
+2019,District 48,Sindh,27.8,0.73,13227
+2019,District 49,Punjab,64.3,0.76,3733
+2019,District 50,Sindh,71.5,0.63,11413
+2019,District 51,Punjab,54.4,0.76,19911
+2019,District 52,Sindh,57.0,0.81,19098
+2019,District 53,Sindh,56.1,0.46,1386
+2019,District 54,Khyber Pakhtunkhwa,64.1,0.67,12367
+2019,District 55,Sindh,60.4,0.77,12961
+2019,District 56,Sindh,62.1,0.69,11969
+2019,District 57,Khyber Pakhtunkhwa,51.4,0.9,9569
+2019,District 58,Sindh,58.7,0.74,11532
+2019,District 59,Khyber Pakhtunkhwa,78.8,0.99,12779
+2019,District 60,Khyber Pakhtunkhwa,80.4,0.89,16426
+2019,District 61,Punjab,65.6,0.61,17277
+2019,District 62,Punjab,45.7,0.57,15638
+2019,District 63,Punjab,60.4,0.66,11177
+2019,District 64,Balochistan,62.2,0.8,4815
+2020,District 1,Sindh,64.8,0.52,10276
+2020,District 2,Balochistan,56.9,0.71,9646
+2020,District 3,Khyber Pakhtunkhwa,57.8,0.7,11747
+2020,District 4,Khyber Pakhtunkhwa,42.2,0.53,18843
+2020,District 5,Balochistan,69.1,0.93,15710
+2020,District 6,Balochistan,64.4,0.59,12019
+2020,District 7,Balochistan,67.8,0.71,9670
+2020,District 8,Khyber Pakhtunkhwa,35.6,0.81,16456
+2020,District 9,Khyber Pakhtunkhwa,49.8,0.7,7063
+2020,District 10,Punjab,35.4,0.53,2821
+2020,District 11,Khyber Pakhtunkhwa,53.6,0.73,16680
+2020,District 12,Khyber Pakhtunkhwa,61.6,0.79,10919
+2020,District 13,Khyber Pakhtunkhwa,48.3,0.77,9048
+2020,District 14,Punjab,50.0,0.66,10179
+2020,District 15,Sindh,67.1,0.82,9789
+2020,District 16,Balochistan,55.0,0.58,17606
+2020,District 17,Balochistan,66.6,0.68,13173
+2020,District 18,Balochistan,65.9,0.68,6930
+2020,District 19,Sindh,38.1,0.58,3896
+2020,District 20,Sindh,65.0,0.62,19505
+2020,District 21,Khyber Pakhtunkhwa,50.6,0.6,19379
+2020,District 22,Sindh,38.7,0.36,5739
+2020,District 23,Sindh,43.8,0.9,19865
+2020,District 24,Punjab,48.5,0.61,10547
+2020,District 25,Khyber Pakhtunkhwa,63.1,0.99,9433
+2020,District 26,Khyber Pakhtunkhwa,77.1,0.87,5917
+2020,District 27,Khyber Pakhtunkhwa,61.8,0.67,14900
+2020,District 28,Sindh,62.1,0.73,18231
+2020,District 29,Punjab,26.9,0.48,4572
+2020,District 30,Balochistan,71.1,0.6,7721
+2020,District 31,Khyber Pakhtunkhwa,62.3,0.56,11874
+2020,District 32,Punjab,69.0,0.8,10812
+2020,District 33,Balochistan,48.8,0.57,18307
+2020,District 34,Sindh,68.0,0.73,6101
+2020,District 35,Sindh,73.2,0.67,12339
+2020,District 36,Punjab,54.9,0.7,4017
+2020,District 37,Khyber Pakhtunkhwa,57.8,0.54,1265
+2020,District 38,Sindh,76.9,0.79,2921
+2020,District 39,Khyber Pakhtunkhwa,79.4,0.47,17439
+2020,District 40,Sindh,60.6,0.78,12591
+2020,District 41,Khyber Pakhtunkhwa,35.7,0.57,13084
+2020,District 42,Sindh,60.2,0.68,9284
+2020,District 43,Khyber Pakhtunkhwa,49.3,0.51,13855
+2020,District 44,Sindh,45.5,0.56,6049
+2020,District 45,Balochistan,49.4,0.69,3019
+2020,District 46,Punjab,55.3,0.72,16607
+2020,District 47,Balochistan,78.1,0.69,2639
+2020,District 48,Khyber Pakhtunkhwa,54.7,0.66,5511
+2020,District 49,Sindh,60.0,0.78,6809
+2020,District 50,Punjab,49.3,0.5,12872
+2020,District 51,Sindh,63.8,0.56,12767
+2020,District 52,Sindh,56.9,0.51,3455
+2020,District 53,Balochistan,45.7,0.81,578
+2020,District 54,Sindh,54.3,0.52,5894
+2020,District 55,Sindh,60.2,0.65,19888
+2020,District 56,Punjab,59.3,0.75,12129
+2020,District 57,Punjab,54.7,0.72,7217
+2020,District 58,Balochistan,61.9,0.59,19404
+2020,District 59,Khyber Pakhtunkhwa,52.0,0.68,5921
+2020,District 60,Sindh,79.3,0.75,6573
+2020,District 61,Balochistan,73.6,0.87,14213
+2020,District 62,Sindh,58.6,0.71,6734
+2020,District 63,Khyber Pakhtunkhwa,50.9,0.49,14326
+2020,District 64,Sindh,30.0,0.62,12272
+2021,District 1,Khyber Pakhtunkhwa,75.6,0.79,6570
+2021,District 2,Balochistan,47.5,0.45,560
+2021,District 3,Balochistan,69.3,0.79,15856
+2021,District 4,Punjab,54.5,0.73,4105
+2021,District 5,Balochistan,43.0,0.73,18225
+2021,District 6,Khyber Pakhtunkhwa,68.0,0.61,17931
+2021,District 7,Punjab,67.0,0.63,4553
+2021,District 8,Khyber Pakhtunkhwa,74.7,0.7,8362
+2021,District 9,Sindh,49.7,0.52,18415
+2021,District 10,Punjab,74.5,0.8,13830
+2021,District 11,Khyber Pakhtunkhwa,54.0,0.62,10162
+2021,District 12,Balochistan,52.1,0.83,13109
+2021,District 13,Sindh,62.1,0.51,6772
+2021,District 14,Punjab,63.7,0.66,13839
+2021,District 15,Punjab,60.6,0.62,8261
+2021,District 16,Punjab,70.2,0.51,8590
+2021,District 17,Balochistan,61.0,0.84,10689
+2021,District 18,Balochistan,95.0,0.89,1107
+2021,District 19,Khyber Pakhtunkhwa,70.6,0.84,8195
+2021,District 20,Sindh,64.2,0.74,7498
+2021,District 21,Sindh,68.5,0.75,1244
+2021,District 22,Khyber Pakhtunkhwa,61.6,0.65,6437
+2021,District 23,Khyber Pakhtunkhwa,69.2,0.91,5487
+2021,District 24,Balochistan,75.6,0.7,9314
+2021,District 25,Punjab,44.4,0.56,5803
+2021,District 26,Balochistan,63.1,0.8,5366
+2021,District 27,Balochistan,42.0,0.5,16219
+2021,District 28,Khyber Pakhtunkhwa,67.6,0.47,18087
+2021,District 29,Khyber Pakhtunkhwa,53.7,0.56,7057
+2021,District 30,Sindh,61.9,0.65,17528
+2021,District 31,Punjab,73.7,0.81,9694
+2021,District 32,Sindh,72.9,0.87,12413
+2021,District 33,Sindh,36.5,0.46,2838
+2021,District 34,Punjab,46.7,0.51,14008
+2021,District 35,Khyber Pakhtunkhwa,60.6,0.7,4340
+2021,District 36,Sindh,64.3,0.8,18243
+2021,District 37,Punjab,41.9,0.41,8271
+2021,District 38,Balochistan,42.0,0.35,18337
+2021,District 39,Punjab,41.2,0.72,15025
+2021,District 40,Sindh,56.0,0.28,5412
+2021,District 41,Sindh,53.9,0.55,2500
+2021,District 42,Balochistan,44.4,0.6,13741
+2021,District 43,Khyber Pakhtunkhwa,31.7,0.46,1498
+2021,District 44,Balochistan,92.9,0.99,811
+2021,District 45,Balochistan,62.4,0.83,14314
+2021,District 46,Balochistan,69.2,0.89,2868
+2021,District 47,Balochistan,38.2,0.62,2107
+2021,District 48,Khyber Pakhtunkhwa,66.3,0.86,8018
+2021,District 49,Khyber Pakhtunkhwa,50.7,0.78,715
+2021,District 50,Khyber Pakhtunkhwa,51.2,0.52,6856
+2021,District 51,Punjab,54.3,0.99,2063
+2021,District 52,Balochistan,54.3,0.83,6743
+2021,District 53,Khyber Pakhtunkhwa,74.3,0.87,17830
+2021,District 54,Khyber Pakhtunkhwa,71.2,0.76,7816
+2021,District 55,Punjab,74.1,0.54,1528
+2021,District 56,Khyber Pakhtunkhwa,60.2,0.67,15702
+2021,District 57,Punjab,87.8,0.77,7235
+2021,District 58,Khyber Pakhtunkhwa,66.4,0.99,14719
+2021,District 59,Balochistan,72.8,0.91,19443
+2021,District 60,Punjab,52.1,0.71,8492
+2021,District 61,Punjab,62.3,0.42,6175
+2021,District 62,Balochistan,63.2,0.79,12842
+2021,District 63,Khyber Pakhtunkhwa,57.6,0.52,1967
+2021,District 64,Sindh,53.6,0.53,12080
+2022,District 1,Punjab,86.0,0.99,7098
+2022,District 2,Balochistan,69.0,0.84,13683
+2022,District 3,Punjab,50.1,0.6,15827
+2022,District 4,Punjab,37.1,0.46,15325
+2022,District 5,Punjab,85.9,0.9,8861
+2022,District 6,Khyber Pakhtunkhwa,43.0,0.81,16715
+2022,District 7,Khyber Pakhtunkhwa,76.6,0.62,7476
+2022,District 8,Sindh,55.1,0.78,17692
+2022,District 9,Sindh,49.5,0.76,10665
+2022,District 10,Sindh,39.4,0.7,8213
+2022,District 11,Sindh,45.6,0.8,8510
+2022,District 12,Balochistan,52.2,0.61,19364
+2022,District 13,Sindh,64.4,0.81,15032
+2022,District 14,Balochistan,55.2,0.88,18068
+2022,District 15,Khyber Pakhtunkhwa,80.2,0.69,11586
+2022,District 16,Balochistan,53.0,0.86,19776
+2022,District 17,Sindh,66.8,0.64,15541
+2022,District 18,Balochistan,58.1,0.75,4465
+2022,District 19,Balochistan,57.4,0.78,2896
+2022,District 20,Sindh,53.1,0.81,19277
+2022,District 21,Punjab,52.4,0.81,9457
+2022,District 22,Sindh,33.7,0.58,18776
+2022,District 23,Balochistan,40.0,0.65,15588
+2022,District 24,Balochistan,52.9,0.36,3430
+2022,District 25,Khyber Pakhtunkhwa,66.6,0.78,6470
+2022,District 26,Balochistan,75.1,0.6,14388
+2022,District 27,Punjab,46.2,0.82,3373
+2022,District 28,Khyber Pakhtunkhwa,75.8,0.78,18276
+2022,District 29,Balochistan,67.9,0.83,17344
+2022,District 30,Sindh,83.4,0.93,13555
+2022,District 31,Khyber Pakhtunkhwa,78.0,0.89,11368
+2022,District 32,Punjab,84.9,0.83,12421
+2022,District 33,Khyber Pakhtunkhwa,57.5,0.74,1085
+2022,District 34,Sindh,52.4,0.46,11414
+2022,District 35,Balochistan,55.3,0.65,1265
+2022,District 36,Khyber Pakhtunkhwa,57.4,0.93,4087
+2022,District 37,Balochistan,60.4,0.61,13883
+2022,District 38,Punjab,46.6,0.52,17805
+2022,District 39,Khyber Pakhtunkhwa,64.5,0.96,19022
+2022,District 40,Khyber Pakhtunkhwa,55.8,0.55,11475
+2022,District 41,Punjab,41.3,0.51,2051
+2022,District 42,Balochistan,50.9,0.58,8362
+2022,District 43,Khyber Pakhtunkhwa,72.8,0.9,12689
+2022,District 44,Sindh,72.1,0.59,6886
+2022,District 45,Punjab,59.5,0.84,11574
+2022,District 46,Punjab,63.1,0.67,4552
+2022,District 47,Khyber Pakhtunkhwa,71.5,0.76,16559
+2022,District 48,Balochistan,85.8,0.65,2326
+2022,District 49,Khyber Pakhtunkhwa,66.3,0.51,19836
+2022,District 50,Balochistan,48.1,0.68,7059
+2022,District 51,Punjab,57.4,0.61,8300
+2022,District 52,Khyber Pakhtunkhwa,71.5,0.76,1612
+2022,District 53,Sindh,70.4,0.66,6603
+2022,District 54,Khyber Pakhtunkhwa,56.4,0.42,867
+2022,District 55,Khyber Pakhtunkhwa,62.0,0.76,8573
+2022,District 56,Khyber Pakhtunkhwa,49.7,0.73,8364
+2022,District 57,Khyber Pakhtunkhwa,56.0,0.52,17225
+2022,District 58,Punjab,61.5,0.66,9861
+2022,District 59,Balochistan,66.7,0.7,4526
+2022,District 60,Sindh,56.7,0.88,7631
+2022,District 61,Balochistan,72.3,0.75,19652
+2022,District 62,Punjab,66.4,0.72,15591
+2022,District 63,Balochistan,67.1,0.78,10986
+2022,District 64,Balochistan,47.0,0.61,7365
+2023,District 1,Khyber Pakhtunkhwa,56.7,0.66,1134
+2023,District 2,Punjab,70.8,0.7,10416
+2023,District 3,Sindh,62.1,0.86,17192
+2023,District 4,Punjab,77.5,0.54,15633
+2023,District 5,Khyber Pakhtunkhwa,48.9,0.53,17935
+2023,District 6,Khyber Pakhtunkhwa,57.2,0.66,17929
+2023,District 7,Punjab,65.8,0.74,14176
+2023,District 8,Khyber Pakhtunkhwa,56.2,0.73,1733
+2023,District 9,Balochistan,65.7,0.59,7554
+2023,District 10,Balochistan,60.9,0.64,13088
+2023,District 11,Balochistan,75.4,0.62,10185
+2023,District 12,Sindh,68.0,0.73,7699
+2023,District 13,Khyber Pakhtunkhwa,64.8,0.63,6747
+2023,District 14,Punjab,64.4,0.76,13885
+2023,District 15,Khyber Pakhtunkhwa,62.2,0.66,9534
+2023,District 16,Khyber Pakhtunkhwa,59.4,0.66,19559
+2023,District 17,Balochistan,63.8,0.55,11546
+2023,District 18,Balochistan,95.0,0.98,14059
+2023,District 19,Sindh,61.7,0.62,17625
+2023,District 20,Punjab,75.5,0.69,2217
+2023,District 21,Sindh,81.8,0.85,10906
+2023,District 22,Sindh,68.4,0.87,19686
+2023,District 23,Khyber Pakhtunkhwa,64.1,0.63,16985
+2023,District 24,Balochistan,72.1,0.84,17516
+2023,District 25,Khyber Pakhtunkhwa,79.6,0.92,11849
+2023,District 26,Khyber Pakhtunkhwa,50.0,0.65,19693
+2023,District 27,Balochistan,63.4,0.72,13990
+2023,District 28,Khyber Pakhtunkhwa,34.8,0.43,10528
+2023,District 29,Balochistan,67.1,0.81,13393
+2023,District 30,Punjab,41.6,0.45,9615
+2023,District 31,Punjab,58.6,0.84,13261
+2023,District 32,Sindh,73.1,0.72,18127
+2023,District 33,Khyber Pakhtunkhwa,54.5,0.63,15359
+2023,District 34,Balochistan,89.9,0.87,3724
+2023,District 35,Balochistan,44.6,0.58,11983
+2023,District 36,Sindh,44.8,0.82,19826
+2023,District 37,Sindh,50.3,0.61,16617
+2023,District 38,Sindh,37.9,0.75,10705
+2023,District 39,Balochistan,53.2,0.59,13112
+2023,District 40,Sindh,35.6,0.62,2594
+2023,District 41,Punjab,64.1,0.55,12349
+2023,District 42,Punjab,71.9,0.59,15405
+2023,District 43,Sindh,70.5,0.61,4689
+2023,District 44,Punjab,57.6,0.68,6054
+2023,District 45,Sindh,60.2,0.95,11011
+2023,District 46,Punjab,75.5,0.63,13012
+2023,District 47,Punjab,81.3,0.97,8984
+2023,District 48,Punjab,63.5,0.68,14756
+2023,District 49,Khyber Pakhtunkhwa,71.5,0.62,6862
+2023,District 50,Sindh,53.1,0.77,5701
+2023,District 51,Sindh,55.1,0.37,3828
+2023,District 52,Punjab,65.5,0.7,19756
+2023,District 53,Punjab,58.4,0.55,8684
+2023,District 54,Balochistan,56.8,0.82,12553
+2023,District 55,Punjab,53.6,0.68,11824
+2023,District 56,Khyber Pakhtunkhwa,70.3,0.67,6038
+2023,District 57,Khyber Pakhtunkhwa,40.5,0.59,17624
+2023,District 58,Punjab,75.4,0.71,18131
+2023,District 59,Balochistan,53.6,0.75,19326
+2023,District 60,Khyber Pakhtunkhwa,60.1,0.84,14797
+2023,District 61,Punjab,60.2,0.79,9837
+2023,District 62,Balochistan,80.6,0.8,4975
+2023,District 63,Sindh,56.7,0.73,15046
+2023,District 64,Balochistan,79.2,0.72,7704
